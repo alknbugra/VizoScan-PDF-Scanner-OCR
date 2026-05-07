@@ -117,7 +117,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## Download
 
 **Available on Google Play:**  
-[https://play.google.com/store/apps/details?id=com.bugraalkin.myapp](https://play.google.com/store/apps/details?id=com.bugraalkin.vizoscan&pcampaignid=web_share)
+[Google Play App Link](https://play.google.com/store/apps/details?id=com.bugraalkin.vizoscan&pcampaignid=web_share)
 
 **Landing Page:**  
-[https://alknbugra.github.io/VizoScan-PDF-Scanner-OCR/](https://alknbugra.github.io/VizoScan-PDF-Scanner-OCR/)
+[Github Repo Link](https://alknbugra.github.io/VizoScan-PDF-Scanner-OCR/)
